@@ -1,5 +1,5 @@
 //your JS code here. If required.
 let element=document.createElement("spain");
-element.innerText=abvvbnbvnb;
+element.innerText="DOM load sucess";
 const body_ele=document.querySelector("body");
 body_ele.appendChild("element");
